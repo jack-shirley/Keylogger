@@ -15,7 +15,7 @@ void ezprint(string str)
 int main()
 {
     char key;
-
+    //test
     while (TRUE)
     {
         for (key = 8; key <= 190; key++)
